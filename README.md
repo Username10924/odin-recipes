@@ -1,1 +1,1 @@
-This is a project towards to practice and demonstrate the skills that I've learned through TOP.
+This is a project made to practice and demonstrate the skills that I've learned through TOP.
