@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eee;
+}
+.card{
+    width: 600px;
+    margin: 0 auto;
+    padding: 1px;
+    background: lightblue;
+    border: blueviolet dotted 1px;
+}
+h1{
+    background: -webkit-linear-gradient(blueviolet, lightblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+a{
+    text-decoration: none;
+    color: rgb(144, 144, 248);
+    font-weight: bold;
+}
+.menulist{
+    list-style-type: none;
+    padding: 0;
+}
+h1, .menulist{
+    text-align: center;
+    margin-bottom: 1px;
+}
+.menuitem{
+    margin-bottom: 10px;
+}
